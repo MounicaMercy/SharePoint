@@ -1,0 +1,40 @@
+D:\Code\SharePoint\Login\bin\Login.dll.config
+D:\Code\SharePoint\Login\bin\Login.dll
+D:\Code\SharePoint\Login\bin\Login.pdb
+D:\Code\SharePoint\Login\bin\roslyn\csc.exe
+D:\Code\SharePoint\Login\bin\roslyn\csc.exe.config
+D:\Code\SharePoint\Login\bin\roslyn\csc.rsp
+D:\Code\SharePoint\Login\bin\roslyn\csi.exe
+D:\Code\SharePoint\Login\bin\roslyn\csi.rsp
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\SharePoint\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\SharePoint\Login\bin\roslyn\System.AppContext.dll
+D:\Code\SharePoint\Login\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\SharePoint\Login\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\SharePoint\Login\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\SharePoint\Login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\SharePoint\Login\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\SharePoint\Login\bin\roslyn\vbc.exe
+D:\Code\SharePoint\Login\bin\roslyn\vbc.exe.config
+D:\Code\SharePoint\Login\bin\roslyn\vbc.rsp
+D:\Code\SharePoint\Login\bin\roslyn\VBCSCompiler.exe
+D:\Code\SharePoint\Login\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\SharePoint\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\SharePoint\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\SharePoint\Login\obj\Debug\UML Login.csprojAssemblyReference.cache
+D:\Code\SharePoint\Login\obj\Debug\UML Login.csproj.CoreCompileInputs.cache
+D:\Code\SharePoint\Login\obj\Debug\UML Login.csproj.CopyComplete
+D:\Code\SharePoint\Login\obj\Debug\Login.dll
+D:\Code\SharePoint\Login\obj\Debug\Login.pdb
+D:\Code\SharePoint\Login\bin\DAL.dll
+D:\Code\SharePoint\Login\bin\Microsoft.SharePoint.Client.dll
+D:\Code\SharePoint\Login\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Code\SharePoint\Login\bin\DAL.pdb
