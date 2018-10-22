@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d41f24af-812f-433e-a0c4-a5a34dc552d9" Scope="Web" Title="MounicaRestAPIFirstApplication Feature4" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Products1\Elements.xml" />
+    <ElementFile Location="Products1\Schema.xml" />
+    <ElementManifest Location="Products1Instance\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Products1\Elements.xml" />
+        <ElementManifest Location="Products1Instance\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

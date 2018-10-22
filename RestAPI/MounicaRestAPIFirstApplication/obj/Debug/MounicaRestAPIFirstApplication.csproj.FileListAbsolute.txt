@@ -1,0 +1,5 @@
+D:\Code\RestApi\RestAPI\MounicaRestAPIFirstApplication\bin\Debug\MounicaRestAPIFirstApplication.pdb
+D:\Code\RestApi\RestAPI\MounicaRestAPIFirstApplication\obj\Debug\MounicaRestAPIFirstApplication.csprojAssemblyReference.cache
+D:\Code\RestApi\RestAPI\MounicaRestAPIFirstApplication\obj\Debug\MounicaRestAPIFirstApplication.csproj.CoreCompileInputs.cache
+D:\Code\RestApi\RestAPI\MounicaRestAPIFirstApplication\obj\Debug\MounicaRestAPIFirstApplication.dll
+D:\Code\RestApi\RestAPI\MounicaRestAPIFirstApplication\obj\Debug\MounicaRestAPIFirstApplication.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="90615193-6b2d-460d-83ac-6c2c3aec4c71" solutionId="90615193-6b2d-460d-83ac-6c2c3aec4c71" resetWebServer="false" sharePointProductVersion="16.0" name="MounicaRestAPIFirstApplication" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c293d8b9-c18a-4438-ba23-d09e24ea6092" />
+    <featureReference itemId="db0a7d40-7ed9-40e9-8d83-89e84003f665" />
+    <featureReference itemId="726163e4-6207-461e-81b5-81e066897df7" />
+    <featureReference itemId="89cbe943-28f4-47b5-a9e1-d701cd5b8ab2" />
+  </features>
+</package>
