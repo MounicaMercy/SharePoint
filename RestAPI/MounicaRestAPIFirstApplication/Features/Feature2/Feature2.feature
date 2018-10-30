@@ -1,2 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9f8cd63e-c56d-4d40-999e-e1bf3ca2cd03" featureId="9f8cd63e-c56d-4d40-999e-e1bf3ca2cd03" imageUrl="" solutionId="00000000-0000-0000-0000-000000000000" title="MounicaRestAPIFirstApplication Feature2" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel" />
